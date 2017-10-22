@@ -7,6 +7,9 @@ This app (live self updating preview of master): http://master.reditr.com/
 
 Our Website & Current App: http://reditr.com
 
+# To-DO
+1. Add keyboard shortcuts - next post, prev post, next subreddit, prev sub-reddit, save, upvote, downvote - ADL 10/22/17
+
 # Dev Instructions
 1. Get NPM
 2. cd to directory
